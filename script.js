@@ -49,8 +49,6 @@ console.log(data1.length)
 </div>
   `;
 
-  
-console.log(hist1);
 profile.insertAdjacentHTML("afterbegin",html);
 data1.forEach((val,i) => {
 
